@@ -1,0 +1,12 @@
+colorama>=0.4.4
+discord.py>=1.5.1
+pyinstaller
+pynput
+pyarmor
+requests
+base64
+ipapi
+IPy
+geocoder
+carrier
+timezone
