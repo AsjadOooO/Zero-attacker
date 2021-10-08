@@ -46,3 +46,6 @@
 [Asjad Discord Server](https://discord.gg/HdukakhZ4Z)
 
 [Knight Discord Server](https://discord.gg/MVmDYSVdzF)
+
+
+-zero-tools TEAM
