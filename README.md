@@ -50,5 +50,5 @@
 
 - Zero-Tool
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zero-attacker&label=Profile%20views&color=0e75b6&style=flat" alt="Zero-attacker" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AsjasOooO&label=Profile%20views&color=0e75b6&style=flat" alt="Zero-attacker" /> </p> 
 
