@@ -14,8 +14,8 @@
 
 
 ### More Stars?
-- As we will reach 25 stars, we will add (selfbot(discord), GetIP)
-- As we will reach 50 stars, We will add (Facebook spammer, numberspammer, reverseshell and many more )
+- As we will reach 25 stars, we will add (self bot(discord), GeoIP)
+- As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more )
 - As we reach 100 stars the code will be public
 
 
@@ -48,4 +48,7 @@
 [Knight Discord Server](https://discord.gg/MVmDYSVdzF)
 
 
--zero-tools TEAM
+- Zero-Tool
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zero-attacker&label=Profile%20views&color=0e75b6&style=flat
+
