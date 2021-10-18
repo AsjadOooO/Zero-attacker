@@ -22,7 +22,7 @@ print(Fore.YELLOW+"""
 1.IP SCANNER            | 6.Port-Scanner                     
 2.Discord-Nuke          | 7.Sub-Domain-Scanner
 3.Discord-BruteForce    | 8.DDOS-TOOL
-4.Email-Boomber         | 
+4.Email-Boomber         | 9:Discord-Token-Checker
 5.Phone-Locator         | 
 """)
 
@@ -51,6 +51,9 @@ elif command == '7':
 
 elif command == '8':
     os.system('cmd /k "python ddos.py"')
+
+elif command == '9':
+    os.system('cmd /k "python Discord-Token-Checker.py"')
 
 else:
   print('Please choose the correct one dont be dumb')
