@@ -10,7 +10,7 @@
 
 - This is still a beta version of the tools if you find any issue let us know :DD
 
-- - We have 45+ stars and my account got flagged
+- We have 45+ stars and my account got flagged
 
 
 ### More Stars?
