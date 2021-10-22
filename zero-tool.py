@@ -1,7 +1,7 @@
 import os
 from colorama import Fore
 
-print(Fore.RED+"""
+print(Fore.MAGENTA+"""
 
  _______  _______  _______  _______         _______ __________________ _______  _______  _        _______  _______ 
 / ___   )(  ____ \(  ____ )(  ___  )       (  ___  )\__   __/\__   __/(  ___  )(  ____ \| \    /\(  ____ \(  ____ )
@@ -23,7 +23,8 @@ print(Fore.YELLOW+"""
 2.Discord-Nuke          | 7.Sub-Domain-Scanner
 3.Discord-BruteForce    | 8.DDOS-TOOL
 4.Email-Boomber         | 9:Discord-Token-Checker
-5.Phone-Locator         | 
+5.Phone-Locator         | 10.Proxies-Generator
+                        | 11.Email-Generator
 """)
 
 command = input('> ')
@@ -54,6 +55,14 @@ elif command == '8':
 
 elif command == '9':
     os.system('cmd /k "python Discord-Token-Checker.py"')
+
+
+elif command == '10':
+    os.system('cmd /k "python proxies-generator.py"')
+
+elif command == '11':
+    os.system('cmd /k "python email-generator.py"')
+   
 
 else:
   print('Please choose the correct one dont be dumb')
