@@ -10,3 +10,4 @@ IPy
 geocoder
 carrier
 timezone
+bs4
