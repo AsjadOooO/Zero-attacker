@@ -32,7 +32,7 @@
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/image1.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/image.png)
 
 ### Developer 
 - Asjad#0060, Dev7knight#3544 is the Developer of this Zero Attacker
