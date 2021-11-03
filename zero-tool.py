@@ -19,12 +19,12 @@ BY: DEV7KNIGHT X ASJAD
 
 print(Fore.YELLOW+"""
 
-1.IP SCANNER            | 6.Port-Scanner                     
-2.Discord-Nuke          | 7.Sub-Domain-Scanner
-3.Discord-BruteForce    | 8.DDOS-TOOL
-4.Email-Boomber         | 9:Discord-Token-Checker
-5.Phone-Locator         | 10.Proxies-Generator
-                        | 11.Email-Generator
+1.IP SCANNER            | 7.Sub-Domain-Scanner      
+2.Discord-Nuke          | 8.DDOS-TOOL
+3.Discord-BruteForce    | 9:Discord-Token-Checker
+4.Email-Boomber         | 10.Proxies-Generator
+5.Phone-Locator         | 11.Email-Generator
+6.Port-Scanner          | 12.Zero-RaidTool
 """)
 
 command = input('> ')
@@ -62,6 +62,10 @@ elif command == '10':
 
 elif command == '11':
     os.system('cmd /k "python email-generator.py"')
+
+
+elif command == '12':
+    os.system('cmd /k "python raidtool.py"')    
    
 
 else:
