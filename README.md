@@ -37,13 +37,14 @@
 ### Developer 
 - Asjad#0060, Dev7knight#3544 is the Developer of this Zero Attacker
 - Contact for any kind of help 
+- [support server](https://discord.gg/Mej5gesZTu)
 
 
 [Asjad Personal Site](https://www.asjadowo.xyz/)
 
 [Knight Personal Site BETA](https://dev7knight.github.io/)
 
-[Asjad Discord Server](https://discord.gg/HdukakhZ4Z)
+[Asjad Discord Server](https://discord.gg/Mej5gesZTu)
 
 [Knight Discord Server](https://discord.gg/MVmDYSVdzF)
 
