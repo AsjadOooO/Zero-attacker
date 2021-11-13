@@ -1,4 +1,4 @@
-import os
+import sys,os
 from colorama import Fore
 
 print(Fore.MAGENTA+"""
@@ -25,6 +25,7 @@ print(Fore.YELLOW+"""
 4.Email-Boomber         | 10.Proxies-Generator
 5.Phone-Locator         | 11.Email-Generator
 6.Port-Scanner          | 12.Zero-RaidTool
+13.Zero-Token-Generator | 
 """)
 
 command = input('> ')
@@ -65,8 +66,12 @@ elif command == '11':
 
 
 elif command == '12':
-    os.system('cmd /k "python raidtool.py"')    
-   
+    os.system('cmd /k "python raidtool.py"')
+
+elif command == '13':
+  os.system('cmd /k "python Zero-Gen/start.py"')
+    
+      
 
 else:
   print('Please choose the correct one dont be dumb')
