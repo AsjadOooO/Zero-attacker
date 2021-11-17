@@ -35,7 +35,7 @@
 ![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero.png)
 
 ### Developer 
-- Asjad#0060, Dev7knight#3544 is the Developer of this Zero Attacker
+- Asjadˢʰ#0060, Dev7knight#3544 is the Developer of this Zero Attacker
 - Contact for any kind of help 
 - [support server](https://discord.gg/Mej5gesZTu)
 
