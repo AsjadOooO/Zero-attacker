@@ -14,8 +14,8 @@
 
 
 ### More Stars?
-- As we will reach 25 stars, we will add (we promised and we added the token gen  for you)
-- As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more )
+- As we will reach 25 stars, we will add (we promised and we added the token gen  for you)[COMPLETED]
+- As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more ) [BETA IN PROGRESS]
 - As we reach 100 stars the code will be public
 
 
@@ -32,7 +32,7 @@
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/Zero-Attacker.png)
 
 ### Developer 
 - Asjadˢʰ#0060, Dev7knight#3544 is the Developer of this Zero Attacker
