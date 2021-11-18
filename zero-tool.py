@@ -25,7 +25,7 @@ print(Fore.YELLOW+"""
 4.Email-Boomber         | 10.Proxies-Generator
 5.Phone-Locator         | 11.Email-Generator
 6.Port-Scanner          | 12.Zero-RaidTool
-13.Zero-Token-Generator | 
+13.Zero-Token-Generator | 14.Spammer (Beta)
 """)
 
 command = input('> ')
@@ -70,6 +70,9 @@ elif command == '12':
 
 elif command == '13':
   os.system('cmd /k "python Zero-Gen/start.py"')
+
+elif command == '14':
+  os.system('cmd /k "python Spammers(Beta)/spammer.py"')
     
       
 
