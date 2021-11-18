@@ -24,6 +24,7 @@
 - cd Zero-Attacker
 - python -m pip install -r requirements.txt
 - for(Windows user just run the bat file (start.bat) )
+- Run Python zero-tool.py 
 
 
 ### License
