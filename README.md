@@ -1,7 +1,7 @@
 ### Zero Attacker
 
 
-0.1 VERSION IS HERE
+- 0.1 VERSION IS HERE
 
 - Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
@@ -35,7 +35,7 @@
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-power.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-power-.png)
 ![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero.png)
 ![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-web.png)
 
