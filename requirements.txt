@@ -18,3 +18,4 @@ urllib
 concurrent.futures
 oncurrent.futures
 pyautogui
+pywebcopy
