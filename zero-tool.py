@@ -15,71 +15,39 @@ print(Fore.MAGENTA+"""
                                                                  
 
 BY: DEV7KNIGHT X ASJAD
+Version 0.1
 """)
 
 print(Fore.YELLOW+"""
 
-1.IP SCANNER                   | 7.Sub-Domain-Scanner      
-2.Discord-Nuke                 | 8.DDOS-TOOL
-3.Discord-BruteForce           | 9:Discord-Token-Checker
-4.Email-Boomber                | 10.Proxies-Generator
-5.Phone-Locator                | 11.Email-Generator
-6.Port-Scanner                 | 12.Zero-RaidTool
-13.Zero-Token-Generator        | 14.Spammer (Beta)
-15.SELFBOT(NOT A HACKING TOOL) | 16.Zero-Web-Hacking-Tool
+1: Zero-Tool (Hacking Tools)   | 2:Zero-Web-Hacking-Tool
+3: Zero-Token-Generator        | 4.Spammer (Beta)
+5: Information about us        | 6.SELFBOT(NOT A HACKING TOOL)
 """)
 
 command = input('> ')
 
 if command == '1':
-   os.system('cmd /k "python Zero-Tool/ip-locater.py"')
+   os.system('cmd /k "python Zero-Tool/zero.py"')
+
 
 elif command == '2':
-  os.system('cmd /k "python Zero-Tool/Discord-Nuke-Tool.py')
+  os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
+    
 
 elif command == '3':
-   os.system('cmd /k "python Zero-Tool/Discord-Token-BruteForce.py')
-
-elif command == '4':
-    os.system('cmd /k "python Zero-Tool/emailboomber.py')
-
-elif command == '5':
-    os.system('cmd /k "python Zero-Tool/phlocator.py"')
-
-elif command == '6':
-    os.system('cmd /k "python Zero-Tool/Port-Scanner.py')
-
-elif command == '7':
-    os.system('cmd /k "python Zero-Tool/Sub-Domain-Scanner.py')
-
-elif command == '8':
-    os.system('cmd /k "python Zero-Tool/ddos.py"')
-
-elif command == '9':
-    os.system('cmd /k "python Zero-Tool/Discord-Token-Checker.py"')
-
-
-elif command == '10':
-    os.system('cmd /k "python Zero-Tool/proxies-generator.py"')
-
-elif command == '11':
-    os.system('cmd /k "python Zero-Tool/email-generator.py"')
-
-
-elif command == '12':
-    os.system('cmd /k "python Zero-Tool/raidtool.py"')
-
-elif command == '13':
   os.system('cmd /k "python Zero-Gen/start.py"')
 
-elif command == '14':
+elif command == '4':
   os.system('cmd /k "python Spammers(Beta)/spammer.py"')
 
-elif command == '15':
+elif command == '5':
+  os.system('cmd /k "python info.py"')
+
+elif command == '6':
   os.system('cmd /k "python ZEROSELFBOT-(NOT-HACKING-TOOL)/zeroselfbot.py"')
 
-elif command == '16':
-  os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
+
     
       
 

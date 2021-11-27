@@ -1,5 +1,8 @@
 ### Zero Attacker
 
+
+0.1 VERSION IS HERE
+
 - Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
 - Who is the Developer, Zero Attack is made by Asjad and Knight. This tool Rights only they have if anyone would try to copy it use under there name would be affected by the MIT Licence 
@@ -8,9 +11,8 @@
 
 - Remember to use this tool on your own purpose no wrong use of it
 
-- This is still a beta version of the tools if you find any issue let us know :DD
+- Beta version finished Version 0.1 Here
 
-- We have 45+ stars and my account got flagged
 
 
 ### More Stars?
@@ -34,6 +36,9 @@
 
 ### Preview
 ![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-power.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-web.png)
+
 
 ### Developer 
 - Asjadˢʰ#0060, Dev7knight#3544 is the Developer of this Zero Attacker
