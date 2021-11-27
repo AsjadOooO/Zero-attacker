@@ -19,13 +19,14 @@ BY: DEV7KNIGHT X ASJAD
 
 print(Fore.YELLOW+"""
 
-1.IP SCANNER            | 7.Sub-Domain-Scanner      
-2.Discord-Nuke          | 8.DDOS-TOOL
-3.Discord-BruteForce    | 9:Discord-Token-Checker
-4.Email-Boomber         | 10.Proxies-Generator
-5.Phone-Locator         | 11.Email-Generator
-6.Port-Scanner          | 12.Zero-RaidTool
-13.Zero-Token-Generator | 14.Spammer (Beta)
+1.IP SCANNER                   | 7.Sub-Domain-Scanner      
+2.Discord-Nuke                 | 8.DDOS-TOOL
+3.Discord-BruteForce           | 9:Discord-Token-Checker
+4.Email-Boomber                | 10.Proxies-Generator
+5.Phone-Locator                | 11.Email-Generator
+6.Port-Scanner                 | 12.Zero-RaidTool
+13.Zero-Token-Generator        | 14.Spammer (Beta)
+15.SELFBOT(NOT A HACKING TOOL) | 16.Zero-Web-Hacking-Tool
 """)
 
 command = input('> ')
@@ -73,6 +74,12 @@ elif command == '13':
 
 elif command == '14':
   os.system('cmd /k "python Spammers(Beta)/spammer.py"')
+
+elif command == '15':
+  os.system('cmd /k "python ZEROSELFBOT-(NOT-HACKING-TOOL)/zeroselfbot.py"')
+
+elif command == '16':
+  os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
     
       
 
