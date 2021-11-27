@@ -32,42 +32,42 @@ print(Fore.YELLOW+"""
 command = input('> ')
 
 if command == '1':
-   os.system('cmd /k "python ip-locater.py"')
+   os.system('cmd /k "python Zero-Tool/ip-locater.py"')
 
 elif command == '2':
-  os.system('cmd /k "python Discord-Nuke-Tool.py')
+  os.system('cmd /k "python Zero-Tool/Discord-Nuke-Tool.py')
 
 elif command == '3':
-   os.system('cmd /k "python Discord-Token-BruteForce.py')
+   os.system('cmd /k "python Zero-Tool/Discord-Token-BruteForce.py')
 
 elif command == '4':
-    os.system('cmd /k "python emailboomber.py')
+    os.system('cmd /k "python Zero-Tool/emailboomber.py')
 
 elif command == '5':
-    os.system('cmd /k "python phlocator.py"')
+    os.system('cmd /k "python Zero-Tool/phlocator.py"')
 
 elif command == '6':
-    os.system('cmd /k "python Port-Scanner.py')
+    os.system('cmd /k "python Zero-Tool/Port-Scanner.py')
 
 elif command == '7':
-    os.system('cmd /k "python Sub-Domain-Scanner.py')
+    os.system('cmd /k "python Zero-Tool/Sub-Domain-Scanner.py')
 
 elif command == '8':
-    os.system('cmd /k "python ddos.py"')
+    os.system('cmd /k "python Zero-Tool/ddos.py"')
 
 elif command == '9':
-    os.system('cmd /k "python Discord-Token-Checker.py"')
+    os.system('cmd /k "python Zero-Tool/Discord-Token-Checker.py"')
 
 
 elif command == '10':
-    os.system('cmd /k "python proxies-generator.py"')
+    os.system('cmd /k "python Zero-Tool/proxies-generator.py"')
 
 elif command == '11':
-    os.system('cmd /k "python email-generator.py"')
+    os.system('cmd /k "python Zero-Tool/email-generator.py"')
 
 
 elif command == '12':
-    os.system('cmd /k "python raidtool.py"')
+    os.system('cmd /k "python Zero-Tool/raidtool.py"')
 
 elif command == '13':
   os.system('cmd /k "python Zero-Gen/start.py"')
