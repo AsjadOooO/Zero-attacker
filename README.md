@@ -18,7 +18,7 @@
 ### More Stars?
 - As we will reach 25 stars, we will add (we promised and we added the token gen  for you)[COMPLETED]
 - As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more ) [BETA IN PROGRESS]
-- As we reach 100 stars the code will be public
+- As we reach 100 stars the code will be public ( will thinking to do it)
 
 
 ### Getting Started
