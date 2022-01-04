@@ -15,7 +15,7 @@ print(Fore.MAGENTA+"""
                                                                  
 
 BY: DEV7KNIGHT X ASJAD
-Version 0.1 (0.2 version on its way?)
+Version 0.1 (0.2 version on its way (more tool)?)
 """)
 
 print(Fore.YELLOW+"""
