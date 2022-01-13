@@ -1,7 +1,7 @@
 ### Zero Attacker
 
 
-- 0.1 VERSION IS HERE
+- 0.1.0.1 VERSION IS HERE
 
 - Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
