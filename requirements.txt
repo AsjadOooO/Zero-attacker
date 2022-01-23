@@ -19,3 +19,4 @@ oncurrent.futures
 pyautogui
 pywebcopy
 discord.py
+pypresence
