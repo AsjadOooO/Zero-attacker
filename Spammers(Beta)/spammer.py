@@ -20,6 +20,8 @@ print(Fore.MAGENTA+"""
 print(Fore.YELLOW+"""
 
 1.whatsappspammer
+[Beta]
+2.instagramspammessage
 [Beta more coming]
 
 
@@ -29,6 +31,9 @@ command = input('> ')
 
 if command == '1':
     os.system('cmd /k "python whatsappspammer.py"')
+elif command == '2':
+    os.system('cmd /k "python instagramspammessage.py"')
+
 
 
 
