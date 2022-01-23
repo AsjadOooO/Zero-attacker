@@ -14,6 +14,9 @@
 - Beta version finished Version 0.1 Here
 
 
+### Quick installiton 
+
+- Head out there [Zero-Tool](https://github.com/AsjadOooO/Zero-attacker/releases/tag/zero-attacker)
 
 ### More Stars?
 - As we will reach 25 stars, we will add (we promised and we added the token gen  for you)[COMPLETED]
