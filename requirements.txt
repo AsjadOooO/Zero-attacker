@@ -4,7 +4,6 @@ pyinstaller
 pynput
 pyarmor
 requests
-base64
 ipapi
 IPy
 geocoder
@@ -19,3 +18,4 @@ concurrent.futures
 oncurrent.futures
 pyautogui
 pywebcopy
+discord.py
