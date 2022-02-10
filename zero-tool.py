@@ -17,9 +17,9 @@ Version 0.1 (0.2 version on its way (more tool)?)
 """)
 
 print(Fore.YELLOW+"""
-1: Zero-Tool (Hacking Tools)   | 2:Zero-Web-Hacking-Tool
-3: Zero-Token-Generator        | 4.Spammer (Beta)
-5: Information about us        | 6.SELFBOT(NOT A HACKING TOOL)
+1: Zero-Tool (Hacking Tools)                             | 2:Zero-Web-Hacking-Tool
+3: Zero-Token-Generator(outdated have some issues )      | 4.Spammer (Beta)
+5: Information about us                                  | 6.SELFBOT(NOT A HACKING TOOL)
 """)
 
 command = input('> ')
@@ -50,3 +50,5 @@ elif command == '6':
 
 else:
   print('Please choose the correct one dont be dumb')
+
+  
