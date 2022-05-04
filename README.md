@@ -11,7 +11,9 @@
 
 - Remember to use this tool on your own purpose no wrong use of it
 
-- Beta version finished Version 0.1 Here
+- Beta version  0.1 Here
+
+- ⚠️ The reason im not working on Zero attacker and not updating  is due to my exams in the college will work on this in summer vaccation 
 
 
 ### Quick installiton 
