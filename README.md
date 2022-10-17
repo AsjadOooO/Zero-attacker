@@ -15,7 +15,7 @@
 
 - ⚠️ The reason im not working on Zero attacker and not updating  is due to my exams in the college will work on this in summer vacation 
 
-- 📣 Website is launching soon https://zerooffenssecurity.cloud/
+- 📣 Website is launching soon https://zerooffenssecurity.cloud/ (beta launching on 15 november)
 
 - When the tool is getting updated? Really soon. Working on everything 
 
