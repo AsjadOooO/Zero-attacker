@@ -41,9 +41,9 @@ We are also providing advance paid tools to help you with in different penterati
 - [support server](https://discord.gg/J5X3KnBPGe)
 
 
-[Asjad Personal Site](https://www.asjad.xyz/)
-[dev7knight Personal Site](https://dev7knight.github.io/)
-[visa2code aka Tejas Lamba](https://github.com/TejasLamba2006)
+[Asjad Personal Site](https://www.asjad.xyz/) <br>
+[dev7knight Personal Site](https://dev7knight.github.io/) <br>
+[visa2code aka Tejas Lamba](https://github.com/TejasLamba2006) <br>
 
 
 - Zero Tool
