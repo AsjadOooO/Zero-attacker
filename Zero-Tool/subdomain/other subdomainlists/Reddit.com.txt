@@ -1,0 +1,12 @@
+about.reddit.com
+en.reddit.com
+fr.reddit.com
+gp.reddit.com
+hw.reddit.com
+it.reddit.com
+m.reddit.com
+mod.reddit.com 
+ssl.reddit.com
+us.reddit.com
+wh.reddit.com
+www.reddit.com

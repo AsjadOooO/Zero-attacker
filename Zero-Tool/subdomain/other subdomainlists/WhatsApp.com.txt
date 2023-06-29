@@ -1,0 +1,12 @@
+account.whatsapp.com
+autodiscover.whatsapp.com
+beta.whatsapp.com
+blog.whatsapp.com
+chat.whatsapp.com
+dev-web.whatsapp.com
+m.whatsapp.com
+translate-dev.whatsapp.com
+translate.whatsapp.com
+v.whatsapp.com
+web.whatsapp.com
+whatsapp.com

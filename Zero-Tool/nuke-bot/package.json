@@ -1,0 +1,21 @@
+{
+  "name": "nuke-bot-discord.js-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon index.js",
+    "build": "npm install"
+  },
+  "keywords": [],
+  "author": "TejasLamba2006",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.11.0",
+    "nodemon": "^2.0.22",
+    "prompt-sync": "^4.2.0",
+    "visa2discord": "^1.0.20"
+  }
+}
