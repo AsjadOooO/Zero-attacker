@@ -43,7 +43,7 @@ We are also providing advance paid tools to help you with in different penterati
 
 [Asjad Personal Site](https://www.asjad.xyz/)
 [dev7knight Personal Site](https://dev7knight.github.io/)
-[Visa2Code](https://github.com/TejasLamba2006)
+[visa2code aka Tejas Lamba](https://github.com/TejasLamba2006)
 
 
 - Zero Tool
