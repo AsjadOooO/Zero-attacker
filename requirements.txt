@@ -1,5 +1,4 @@
 colorama>=0.4.4
-discord.py>=1.5.1
 pyinstaller
 pynput
 pyarmor
@@ -10,7 +9,6 @@ geocoder
 carrier
 timezone
 bs4
-json
 hashlib
 httpx_socks
 urllib
@@ -18,5 +16,4 @@ concurrent.futures
 oncurrent.futures
 pyautogui
 pywebcopy
-discord.py
 pypresence
