@@ -6,14 +6,13 @@
 
 - Re-Lauch of the tool this time with the source code
 
-- 📣 Website is launching soon https://zerooffenssecurity.cloud/ (beta launching on 15 november)
+- 📣 Website is launching soon https://zerooffenssecurity.cloud/ 
 
-- When the tool is getting updated? Really soon. Working on everything 
 
 
 
 ### Paid Tools 
-We are also providing advance paid tools to help you with in different penteration testing, etc (Join the server to know more about it)
+We are also providing advance paid tools to help you with in different penteration testing, etc (Join the server to know more about it)- [ server](https://discord.gg/J5X3KnBPGe)
 
 
 ### Getting Started
@@ -43,7 +42,8 @@ We are also providing advance paid tools to help you with in different penterati
 
 
 [Asjad Personal Site](https://www.asjad.xyz/)
-
+[dev7knight Personal Site](https://dev7knight.github.io/)
+[Visa2Code](https://github.com/TejasLamba2006)
 
 
 - Zero Tool
