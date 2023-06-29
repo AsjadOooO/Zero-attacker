@@ -20,7 +20,7 @@ We are also providing advance paid tools to help you with in different penterati
 - cd Zero-Attacker
 - python -m pip install -r requirements.txt
 - for(Windows user just run the bat file (start.bat) )
-- Run Python zero-tool.py 
+- Run Python zero.py 
 
 
 ### License

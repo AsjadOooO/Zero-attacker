@@ -12,7 +12,7 @@ git clone https://github.com/AsjadOwO/Zero-attacker.git
 cd Zero-Attacker
 python -m pip install -r requirements.txt
 for(Windows user just run the bat file (start.bat) )
-Run Python zero-tool.py
+Run Python zero.py
 
 
 License
