@@ -37,7 +37,7 @@ We are also providing advance paid tools to help you with in different penterati
 ### Developer 
 - Zero Offens Security is owned by Asjad and dev7knight
 - Developer are dev7knight,asjad,visa2code 
-- Contact for any kind of help 
+- Contact for any kind of help  Asjad#0060 (.asjad) or dev7knight
 - [support server](https://discord.gg/J5X3KnBPGe)
 
 
