@@ -30,8 +30,8 @@ We are also providing advance paid tools to help you with in different penterati
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/1.png)
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/2.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/Zero-attacker/1.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/Zero-attacker/2.png)
 
 
 
