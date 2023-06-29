@@ -1,34 +1,19 @@
 ### Zero Attacker
 
-
-
-- 0.1.0.1 VERSION IS HERE
+- 2.0 VERSION IS HERE
 
 - Zero Attacker is bunch of tools which we made for people.These all tools are for purpose of ethical hacking and discord tools.
 
-- Who is the Developer, Zero Attack is made by Asjad and Knight. This tool Rights only they have if anyone would try to copy it use under there name would be affected by the MIT Licence 
-
-- Where is code? For now we Are not providing the source Code 
-
-- Remember to use this tool on your own purpose no wrong use of it
-
-- Beta version  0.1 Here
-
-- ⚠️ The reason im not working on Zero attacker and not updating  is due to my exams in the college will work on this in summer vacation 
+- Re-Lauch of the tool this time with the source code
 
 - 📣 Website is launching soon https://zerooffenssecurity.cloud/ (beta launching on 15 november)
 
 - When the tool is getting updated? Really soon. Working on everything 
 
 
-### Quick installiton 
 
-- Head out there [Zero-Tool](https://github.com/AsjadOooO/Zero-attacker/releases/tag/zero-attacker)
-
-### More Stars?
-- As we will reach 25 stars, we will add (we promised and we added the token gen  for you)[COMPLETED]
-- As we will reach 50 stars, We will add (Facebook spammer, number spammer, reverse shell and many more ) [BETA IN PROGRESS]
-- As we reach 100 stars the code will be public ( will thinking to do it)
+### Paid Tools 
+We are also providing advance paid tools to help you with in different penteration testing, etc (Join the server to know more about it)
 
 
 ### Getting Started
@@ -45,24 +30,23 @@
 - Using it without giving us credit would lead to Breaking the License law
 
 ### Preview
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-power-.png)
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero.png)
-![image](https://github.com/AsjadOooO/Zero-attacker/blob/main/zero-web.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/1.png)
+![image](https://github.com/AsjadOooO/Zero-attacker/blob/Zero-attacker/2.png)
+
 
 
 ### Developer 
-- Asjad#0060 is the Developer of this Zero Attacker
+- Zero Offens Security is owned by Asjad and dev7knight
+- Developer are dev7knight,asjad,visa2code 
 - Contact for any kind of help 
 - [support server](https://discord.gg/J5X3KnBPGe)
 
 
-[Asjad Personal Site](https://www.asjadowo.xyz/)
+[Asjad Personal Site](https://www.asjad.xyz/)
 
-[Knight No more contributing on this project]
 
 
 - Zero Tool
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsjasOooO&label=Profile%20views&color=0e75b6&style=flat" alt="Zero-attacker" /> </p> 
-
 
