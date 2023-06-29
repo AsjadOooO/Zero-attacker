@@ -60,14 +60,14 @@ elif command == '9':
 
 
 #elif command == '10':
-    #os.system('cmd /k "python Zero-Tool/proxies-generator.py"')
+    #os.system('cmd /k "python Zero-Tool/Keylogger.py"')
 
 #elif command == '11':
-   # os.system('cmd /k "python Zero-Tool/email-generator.py"')
+   # os.system('cmd /k "python Zero-Tool/Web-Crawler.py"')
 
 
 #elif command == '12':
-    #os.system('cmd /k "python Zero-Tool/raidtool.py"')
+    #os.system('cmd /k "python Zero-Tool/Reverse-Shell.py"')
 
 
     
