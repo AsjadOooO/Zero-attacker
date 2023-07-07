@@ -32,23 +32,23 @@ def display_menu():
 
 def execute_command(command):
     if command == '1':
-        os.system('cmd /k "python Zero-Tool/ip-lookup.py"')
+        os.system('cmd /k "python Zero-Tool/ip-lookup.py"' if os.name == 'nt' else 'python Zero-Tool/ip-lookup.py')
     elif command == '2':
-        os.system('cmd /k "python Zero-Tool/nuke-bot/main.py"')
+        os.system('cmd /k "python Zero-Tool/nuke-bot/main.py"' if os.name == 'nt' else 'python Zero-Tool/nuke-bot/main.py')
     elif command == '3':
-        os.system('cmd /k "python Zero-Tool/Subdirectory-scanner/main.py"')
+        os.system('cmd /k "python Zero-Tool/Subdirectory-scanner/main.py"' if os.name == 'nt' else 'python Zero-Tool/Subdirectory-scanner/main.py')
     elif command == '4':
-        os.system('cmd /k "python Zero-Tool/email-bomber.py"')
+        os.system('cmd /k "python Zero-Tool/email-bomber.py"' if os.name == 'nt' else 'python Zero-Tool/email-bomber.py')
     elif command == '5':
-        os.system('cmd /k "python Zero-Tool/phone-locator.py"')
+        os.system('cmd /k "python Zero-Tool/phone-locator.py"' if os.name == 'nt' else 'python Zero-Tool/phone-locator.py')
     elif command == '6':
-        os.system('cmd /k "python Zero-Tool/port-scanner.py"')
+        os.system('cmd /k "python Zero-Tool/port-scanner.py"' if os.name == 'nt' else 'python Zero-Tool/port-scanner.py"')
     elif command == '7':
-        os.system('cmd /k "python Zero-Tool/subdomain/main.py"')
+        os.system('cmd /k "python Zero-Tool/subdomain/main.py"' if os.name == 'nt' else 'python Zero-Tool/subdomain/main.py')
     elif command == '8':
-        os.system('cmd /k "python Zero-Tool/ddos.py"')
+        os.system('cmd /k "python Zero-Tool/ddos.py"' if os.name == 'nt' else 'python Zero-Tool/ddos.py')
     elif command == '9':
-        os.system('cmd /k "python Zero-Tool/discord-token-grabber.py"')
+        os.system('cmd /k "python Zero-Tool/discord-token-grabber.py"' if os.name == 'nt' else 'python Zero-Tool/discord-token-grabber.py')
     elif command == '10':
         print(Fore.RED + 'This option is not available yet! Coming soon...')
         #os.system('cmd /k "python Zero-Tool/Keylogger.py"')
