@@ -30,7 +30,6 @@ def execute_command(command):
         print(Fore.RED + 'This option is not available yet! Coming soon...')
         #os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
     elif command == '3':
-        os.system('cmd /k "python info.py"')
         os.system('cmd /k "python info.py"' if os.name == 'nt' else 'python info.py')
 
         display_menu()
