@@ -16,7 +16,7 @@ We are also providing advance paid tools to help you with in different penterati
 
 
 ### Getting Started
--  git clone https://github.com/AsjadOwO/Zero-attacker.git
+-  git clone [https://github.com/AsjadOwO/Zero-attacker.git](https://github.com/AsjadOooO/Zero-attacker/)
 - `cd Zero-Attacker`
 - `python -m pip install -r requirements.txt`
 - for(Windows user just run the bat file (`install.bat` if running first time else `start.bat`) )
