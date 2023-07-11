@@ -42,7 +42,8 @@ We are also providing advance paid tools to help you with in different penterati
 
 
 [Asjad Personal Site](https://www.asjad.xyz/) <br>
-[dev7knight Personal discord server](https://discord.gg/ft7Q8y5UT3) <br>
+[dev7knight Personal discord server](https://discord.gg/ft7Q8y5UT3) <br> 
+[Web-Bugger](https://github.com/dev7knight/WebBugger) <br> 
 [visa2code aka Tejas Lamba](https://github.com/TejasLamba2006) <br>
 
 
