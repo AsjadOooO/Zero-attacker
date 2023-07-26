@@ -3,6 +3,7 @@ mail2
 www
 ns2
 ns1
+ns2
 blog
 localhost
 m
