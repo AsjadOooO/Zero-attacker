@@ -22,5 +22,7 @@ api_key = "22WfDqB635jMOWkxdeC1r2BXew1tXHLU"
 
 phone_number = input(Fore.MAGENTA+"Enter the phone number to locate: ")
 
-phone_details = phone_locator(phone_number, api_key)
-print_phone_details(phone_details)
+if len(phone_details) <= 1:
+    print(Fore.RED+f"Error message: {phone_details['message']}")
+else:
+    print_phone_details(phone_details)
