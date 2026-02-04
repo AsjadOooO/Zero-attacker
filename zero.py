@@ -25,12 +25,12 @@ def display_menu():
 
 def execute_command(command):
     if command == '1':
-        os.system('cmd /k "python Zero-Tool/zero-tool.py"' if os.name == 'nt' else 'python Zero-Tool/zero-tool.py')
+        os.system('cmd /k "python3 Zero-Tool/zero-tool.py"' if os.name == 'nt' else 'python Zero-Tool/zero-tool.py')
     elif command == '2':
         print(Fore.RED + 'This option is not available yet! Coming soon...')
         #os.system('cmd /k "python Zero-Web-Hacktool/web_bugger.py"')
     elif command == '3':
-        os.system('cmd /k "python info.py"' if os.name == 'nt' else 'python info.py')
+        os.system('cmd /k "python3 info.py"' if os.name == 'nt' else 'python info.py')
 
         display_menu()
     else:
@@ -44,3 +44,4 @@ while True:
         break
 
     execute_command(command)
+
